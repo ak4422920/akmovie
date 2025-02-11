@@ -2,7 +2,7 @@
   <img src="https://envs.sh/RtX.jpg" alt="AKMOVIEBOTZLogo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  AKMOVIEBOTZ
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+AKMOVIEBOTZ!)
